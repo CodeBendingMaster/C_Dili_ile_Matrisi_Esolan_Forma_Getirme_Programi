@@ -1,4 +1,4 @@
-//sorularınız için yemreaydemir67@gmail.com veya @matematik_muhendisi_adayi(instagram) adresine mesaj gönderebilirsiniz
+//sorularınız için yemreaydemir67@gmail.com veya @engineer_of.future(instagram) adresine mesaj gönderebilirsiniz
 #include <stdio.h>
 
 void esolanyapma(int f, int g)
